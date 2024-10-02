@@ -1,1 +1,1 @@
-# 100-days-of-RTL-challenge
+# 100DAYSOFRTL
